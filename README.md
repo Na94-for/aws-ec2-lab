@@ -5,7 +5,7 @@ O objetivo é demonstrar na prática como criar, acessar, configurar e testar um
 
 ---
 
-## 📘 Objetivo do Laboratório
+##  Objetivo do Laboratório
 
 Ao concluir este desafio, foram aplicados na prática os seguintes conhecimentos:
 
@@ -19,7 +19,7 @@ Ao concluir este desafio, foram aplicados na prática os seguintes conhecimentos
 
 ---
 
-## 🚀 Passo a Passo Realizado
+##  Passo a Passo Realizado
 
 ### **1. Criação da Instância EC2**
 - AMI: **Amazon Linux 2023**
@@ -74,7 +74,7 @@ Configuração do Security Group
 
 Página “It works!”
 
-🧾 Conclusão
+ Conclusão
 
 Este laboratório permitiu consolidar os principais fundamentos do uso de EC2 na AWS, incluindo:
 
@@ -90,7 +90,7 @@ Deploy simples usando Apache
 
 A prática reforçou a compreensão dos conceitos apresentados na formação da DIO.
 
-👤 Autor
+ Autor
 
 Nhátilla Alves Teixeira
 GitHub: https://github.com/Na94-para
